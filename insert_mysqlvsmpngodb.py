@@ -1,5 +1,4 @@
 import csv
-import json
 import pandas as pd
 import mysql.connector
 import pymongo
